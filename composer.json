@@ -1,13 +1,17 @@
 {
     "name": "cnvs/canvas-theme-paper",
-    "description": "Base theme for Canvas.",
-    "keywords": ["canvas", "theme", "base"],
+    "description": "Default theme for Canvas",
+    "keywords": ["canvas", "theme", "default"],
     "type": "canvas-theme",
     "license": "MIT",
     "authors": [
         {
             "name": "Patrick Reid",
             "email": "reliq@reliqarts.com"
+        },
+        {
+            "name": "Todd Austin",
+            "email": "austin.todd.j@gmail.com"
         }
     ],
     "extra": {
