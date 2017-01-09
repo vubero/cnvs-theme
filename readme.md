@@ -1,38 +1,13 @@
-## Paper
+<a href="http://canvas.toddaustin.io"><img src="https://raw.githubusercontent.com/cnvs/assets/master/default-paper.jpg"></a>
 
-Paper is the default theme for [Canvas](https://github.com/cnvs/canvas). Feel free to fork it and create your own.
+## About Paper
 
-[Canvas](http://canvas.toddaustin.io) is a simple, powerful blog publishing platform that lets you to share your stories with the world. Its beautifully designed interface and completely customizable framework allows you to create and publish your own blog, giving you tools that make it easy and even fun to do. 
+Paper is the default theme for [Canvas](https://github.com/cnvs/canvas). Feel free to fork it, use it as a starting point and create your own!
 
 ## Installation
 
-> NB. The "unthemed" canvas, out-the-box, looks exactly like this. Evidently you do not need to install this theme. 
+Since Canvas comes bundled with Paper out of the box, you don't need to install this theme.
 
-However, you may install this theme via composer:
+## License
 
-````
-composer require cnvs/canvas-theme-paper
-````
-
-## Theme Development
-
-You may use this as a base to create your very own Canvas theme. There are a few steps to note however:
-
-- :smile_cat: Yarn: The theme uses yarn to pull node modules including Laravel's elixir which is used to "mix" assets.
-  
-  Ensure you have `yarn` installed:
-  ````
-  npm install yarn -g
-  ````
-
-  Run `yarn` in terminal from your theme directory.
-
-- :beer: Gulp
-
-  Once npm packages are downloaded you may *gulp* away.
-  ````
-  gulp
-  ````
-
----
-Cheers :beers:
+Paper is an open-sourced theme library licensed under the [MIT license](https://opensource.org/licenses/MIT).
