@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ro">
     <head>
         @include('canvas::frontend.shared.partials.meta')
         @include('canvas::frontend.shared.partials.css')

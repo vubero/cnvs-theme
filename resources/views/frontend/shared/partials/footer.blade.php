@@ -21,3 +21,6 @@
 @if (!empty(\Canvas\Models\Settings::gaId()))
     @include('canvas::frontend.blog.partials.analytics')
 @endif
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.5.1/prism.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.5.1/components/prism-php.min.js"></script>
