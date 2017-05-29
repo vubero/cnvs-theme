@@ -5,3 +5,5 @@ Vube.ro is the default appearance of [Vube.ro](http://vube.ro) and it was develo
 ## License
 
 Paper is an open-sourced theme library licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+Linked!
