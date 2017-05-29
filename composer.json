@@ -1,18 +1,18 @@
 {
-    "name": "cnvs/paper",
-    "description": "Canvas Default Appearance",
-    "keywords": ["canvas", "theme", "paper"],
+    "name": "vubero/cnvs-theme",
+    "description": "Vube.ro Canvas Theme",
+    "keywords": ["canvas", "theme", "vube"],
     "type": "canvas-theme",
     "license": "MIT",
     "authors": [
         {
-            "name": "Todd Austin",
-            "email": "austin.todd.j@gmail.com"
+            "name": "Vube.ro",
+            "email": "vubero@outlook.com"
         }
     ],
     "extra": {
         "canvas-theme": {
-            "title": "Paper",
+            "title": "Vube.ro Canvas Theme",
             "directories": {
                 "public": "public",
                 "views": "resources/views"
